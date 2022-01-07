@@ -1,4 +1,4 @@
-![tailwind-nextjs-banner](/public/static/images/tadaspetra.png)
+
 
 # Tailwind Nextjs Starter Blog
 
