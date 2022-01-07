@@ -1,0 +1,16 @@
+{
+  "title": "Tadas Petra",
+  "author": "Tadas Petra",
+  "headerTitle": "Tadas Petra",
+  "description": "A blog about books, development, and other interested things from the view point of a software engineer",
+  "language": "en-us",
+  "siteUrl": "https://tadaspetra.com",
+  "siteRepo": "https://github.com/tadaspetra/blog",
+  "image": "/static/images/avatar.png",
+  "socialBanner": "/static/images/tadaspetra.png",
+  "email": "tadas@tadaspetra.com",
+  "github": "https://github.com/tadaspetra",
+  "twitter": "https://twitter.com/tadaspetra",
+  "youtube": "https://youtube.com/tadaspetra",
+  "locale": "en-US"
+}
